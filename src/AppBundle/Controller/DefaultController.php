@@ -17,11 +17,35 @@ class DefaultController extends Controller
     }
 
     /**
+     * Piotrek Kustra
+     */
+
+    /**
+     * end - Piotrek Kustra
+     */
+
+    /**
      * Dawid Majdanski
      */
 
     /**
      * end - Dawid Majdanski
+     */
+
+    /**
+     * Damian Pyc
+     */
+
+    /**
+     * end - Damian Pyc
+     */
+
+    /**
+     * Paweł Czuchaj
+     */
+
+    /**
+     * end - Paweł Czuchaj
      */
 
 
