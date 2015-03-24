@@ -33,7 +33,15 @@ class DefaultController extends Controller
     /**
      * Dawid Majdanski
      */
-
+    
+    /**
+     * @Route("/bugatti16.4_veyron.html", name="bugatti16.4_veyron")
+     */
+    public function bugatti16_4veyronAction()
+    {
+        return $this->render('default/bugatti16.4_veyron.html.twig');
+    }
+    
     /**
      * end - Dawid Majdanski
      */
