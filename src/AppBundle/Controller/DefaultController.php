@@ -19,7 +19,13 @@ class DefaultController extends Controller
     /**
      * Piotrek Kustra
      */
-
+    /**
+     * @Route("/maseratti-5000-gt.html", name="maseratti-5000-gt")
+     */
+    public function MaserattiAction()
+    {
+        return $this->render('default/maseratti-5000-gt.html.twig');
+    }
     /**
      * end - Piotrek Kustra
      */
