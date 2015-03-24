@@ -27,6 +27,13 @@ class DefaultController extends Controller
         return $this->render('default/maseratti-5000-gt.html.twig');
     }
     /**
+     * @Route("/ferrari-enzo.html", name="ferrari-enzo")
+     */
+    public function FerrariEnzoAction()
+    {
+        return $this->render('default/ferrari-enzo.html.twig');
+    }
+    /**
      * end - Piotrek Kustra
      */
 
