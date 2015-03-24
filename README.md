@@ -1,1 +1,0 @@
-# najszybsze-samochody-swiata
