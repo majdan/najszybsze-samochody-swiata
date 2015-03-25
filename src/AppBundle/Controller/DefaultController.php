@@ -50,6 +50,14 @@ class DefaultController extends Controller
     }
     
     /**
+     * @Route("/arrinera_hussarya.html", name="arrinera_hussarya")
+     */
+    public function ArrineraHussaryaAction()
+    {
+        return $this->render('default/arrinera_hussarya.html.twig');
+    }
+
+    /**
      * end - Dawid Majdanski
      */
 
